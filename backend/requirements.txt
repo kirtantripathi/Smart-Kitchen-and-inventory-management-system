@@ -1,0 +1,8 @@
+flask
+flask-cors
+Pillow
+matplotlib
+inference-sdk
+pymongo
+dnspython
+python-dotenv

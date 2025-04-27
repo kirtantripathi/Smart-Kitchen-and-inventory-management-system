@@ -1,0 +1,5 @@
+Purchase_Date,Ingredient,Unit,Quantity_Purchased,Expiry_Date
+2025-04-02,Butter,g,10,2025-04-05
+2025-04-02,Butter,g,15,2025-04-06
+2025-04-02,Cheese,g,30,2025-04-10
+2025-04-02,Cheese,g,20,2025-04-12

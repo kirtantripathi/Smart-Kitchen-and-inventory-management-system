@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "food-ocr-inventory",
+  "private_key_id": "d2f741381ba8d13f397e267d68d014e43c1730b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs0H4QYO42gruE\nQ+wwTrhXn5FOjc5ANcV+shVOEdMGeZHtv5jnZYsd3oFdthEr9ibGof/tFq3kdhh2\nLQO2me7yVfgcAicklFtgemjU5hFR/3RlISyNOqPQMSVzFlISYOafxXBJafVAf0e/\nY5vijVdl08nkpkXEloYuXtzUkrdR6omh57A022zJi5Bmi0Q5+bm0OMFNx96+sCb3\nILeih1YLrf1tcp41jzeyfLYPeu9Qo9+HdF7+/hJoFCTxxPQ6dd/6C0Vr7bfwHYfW\nP/T4qGY/esAsJPW/ntselgx9ddi3i+Xc7cLUoutBRRRwSMOMNxFO/44c41jhEZA3\nsbrlX3blAgMBAAECggEABJia8baSP1Lkx9TCoFpHntT4mV0+IgkMEp2L4YKp2R88\nmVUiLO1PcODtEd/4vvGSAHBojRawU0Ysyl/SHHYlm75blescvWVQtNUsmpTv2v1v\nTA1A0RTBLJVSCKiMUD7Rg2hN3zX5NtjrwJRWngTiUSv7z5/4dQ0Hzo3pU6H/TCdk\ncbmM2A7DiradX7+QlBeUWv67ZkUrTFCf9f+0as9Cw80ZTcgXw8gyGQV5Wx4CBagO\n3scidvbBIpU+f0B3DpOR1cPNQMlymIR5OIGZHXc4Vb39Q08/fukg2toEAPfVLmt0\noxnNYDlE6ZUJ7G/Hh2NHLNFOE0vVN8u3XfEQkrkh9QKBgQDt8G1ZSQV0Mbu7nvIq\nbGtWQaHPUZb/Eki38JV8i+V8TUs1lzCujVSCypWpN70Ks0uVxLMhVxntTFSuNwBw\njtNqmAUsWiziq4Cf2EomfCdqiv8RJd4Wwxwtx1VokiMsaef02INMb7d/I8gVLpaz\nGjHUgr6rBReaiA86GmpelXgffwKBgQC57pP1dHxKVNCNfiuh26IA9Us/YxDFmxWV\ntV9BLnkVEkU+YZT8dBhbImvEpCLGQtv0vsne6Hu0HQOZ6AKYqs7mkrEz3FXaaeiV\nmWDuygDwZr1V1B43O942q5OlGLsT9WxEpzvVati/2tCj+oF0S2vRtpe0ciLpJHAs\nc97brq4bmwKBgQDFxSaOpQQ0fTYGj+nHW1CoZGsjUDTKlJ7+zKjj2cAIXpKZ264q\nF+zbvZlCCsNFhpvXw6QEnUo+lEh6edsSs5SEsBD0uYs/aL/DnNqdPGriwt+ZmDkO\nAGSGpH2YKoez3d9gAyq3ONBzjAE9ofi+q5IpifcDXXsuBdNqPxSUw3YR7wKBgA3d\nW40nJYmJb4/Ng8VrElaN9BGC+qIxoVdrkfHTXFYU6bLwJeL5aUOKeozMTIeKPsqu\nW3FS1r6klzsn0OG/gvQwpiQe3wwNb7mQGWlVCOLkVmQLEEHAJh7fhn/+Kx0e5Pbt\nnYmZkRYlY/+GU5bvdNfLjN540F+gRvkZntm02ejXAoGAdO4I2K30EAyAe+18c4Iz\n0Pv4mFUXdONtNzXOOytGcO0iwMGPdJqBC6m65GT5dOoY4dTCByzcb6jqXTLuvO3t\n7ErWmvST7fVkDgx+nOEP6nVXXt9moEjO04zxQyQc8+H6/yrfrdcJYPE98IHDC1gU\n7Jdgs31irqiZZaIJ1cuPnIs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "food-ocr@food-ocr-inventory.iam.gserviceaccount.com",
+  "client_id": "107583049406280783781",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/food-ocr%40food-ocr-inventory.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
