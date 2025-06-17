@@ -809,7 +809,19 @@ def save_data():
 
 
 
+# for pred in result["predictions"]:
+    #     x, y, w, h = pred["x"], pred["y"], pred["width"], pred["height"]
+    #     left = x - w / 2
+    #     top = y - h / 2
+    #     right = x + w / 2
+    #     bottom = y + h / 2
+    #     draw.rectangle([left, top, right, bottom], outline="red", width=3)
+    #     draw.text((left, top - 10), f"{spanish_to_english[pred['class']]} ({pred['confidence']:.2f})", fill="red")
 
+    # output_path = os.path.join(VEGETABLE_UPLOAD_FOLDER, f"result_{image_id}")
+    # img.save(output_path)
+
+    # return jsonify({"result_url": f"http://localhost:5000/{output_path}"})
 
 @app.route("/upload", methods=["POST"])
 def upload_image():
@@ -826,20 +838,6 @@ def upload_image():
     # Draw boxes
     img = Image.open(image_path).convert("RGB")
     draw = ImageDraw.Draw(img)
-
-    # for pred in result["predictions"]:
-    #     x, y, w, h = pred["x"], pred["y"], pred["width"], pred["height"]
-    #     left = x - w / 2
-    #     top = y - h / 2
-    #     right = x + w / 2
-    #     bottom = y + h / 2
-    #     draw.rectangle([left, top, right, bottom], outline="red", width=3)
-    #     draw.text((left, top - 10), f"{spanish_to_english[pred['class']]} ({pred['confidence']:.2f})", fill="red")
-
-    # output_path = os.path.join(VEGETABLE_UPLOAD_FOLDER, f"result_{image_id}")
-    # img.save(output_path)
-
-    # return jsonify({"result_url": f"http://localhost:5000/{output_path}"})
 
     detection_counts = defaultdict(int)
 
