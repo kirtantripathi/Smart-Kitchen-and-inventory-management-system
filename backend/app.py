@@ -76,7 +76,7 @@ os.makedirs(PACKET_UPLOAD_FOLDER, exist_ok=True)
 
 CLIENT = InferenceHTTPClient(
     api_url="http://localhost:9001",
-    api_key="HIHYIMHr2i6igB3MRQv8"
+    api_key=""
 )
 
 from flask import send_from_directory
@@ -695,7 +695,7 @@ def waste_detection():
         # Initialize Roboflow inference client
         CLIENT = InferenceHTTPClient(
             api_url="http://localhost:9001",
-            api_key="HIHYIMHr2i6igB3MRQv8"
+            api_key=""
         )
 
         # Run inference
