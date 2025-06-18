@@ -1,6 +1,6 @@
 from pymongo import MongoClient
 
-client = MongoClient("mongodb+srv://tripathikirtan9:EF0h5g9G7ne6Gc10@cluster0.jvlmy60.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = MongoClient("")
 print("Connection successfull")
 
 db = client["hackathon_db"]  # your database name
